@@ -1,0 +1,25 @@
+You are an expert website copywriter.
+
+Write homepage content for a salon.
+
+Business Name:
+ABC Salon
+
+Location:
+Visakhapatnam
+
+Target Audience:
+Men and Women
+
+USP:
+Affordable premium salon services.
+
+Generate:
+
+1. Headline
+2. Subheadline
+3. Introduction
+4. Why Choose Us
+5. Customer Benefits
+
+Use simple English.

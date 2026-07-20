@@ -1,0 +1,21 @@
+Write service page content for ABC Salon.
+
+Services:
+
+Haircut
+
+Hair Spa
+
+Facial
+
+Bridal Makeup
+
+For each service include:
+
+Description
+
+Benefits
+
+Why choose us
+
+Professional and friendly tone.
